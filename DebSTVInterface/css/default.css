@@ -1,0 +1,19 @@
+.remote_body {
+	background-color: #3f3f3f;
+}
+
+.remote_table {
+	width: 100%;
+	text-align: center;
+}
+
+.remote_button {
+	width: 200px;
+	height: 200px;
+	background-color: #7f7f7f;
+	font-size: 1000%;
+}
+
+.header_doc {
+	text-align: center;
+}
